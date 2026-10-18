@@ -1,0 +1,10 @@
+ipv4_validator_project/
+    pyproject.toml
+    scruct.txt
+    src/
+        ipv4_validator/
+            __init__.py
+            validator.py
+    tests/
+        conftest.py
+        test_validator.py
